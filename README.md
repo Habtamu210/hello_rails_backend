@@ -27,7 +27,7 @@
 
 # 📖 **Hello React Backend** <a name="about-project"></a>
 
-**Hello React Backend** is a practice project that serves as a backend for the <a href="https://github.com/Habtamu210/hello-react-front-end/tree/features">Hello React Front End</a>. These two projects are part of a single project that is a fullstack random message web app. 
+**Hello React Backend** is a practice project that serves as a backend for the <a href="https://github.com/Habtamu210/hello-react-frontend/tree/feature">Hello React Front End</a>. These two projects are part of a single project that is a fullstack random message web app. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
